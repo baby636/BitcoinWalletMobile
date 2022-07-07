@@ -38,7 +38,7 @@
     "electrum-client": "https://github.com/BlueWallet/rn-electrum-client",
     "events": "^1.0.0",
     "https-browserify": "~0.0.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "path-browserify": "0.0.0",
     "process": "^0.11.0",
     "punycode": "^1.2.4",
