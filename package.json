@@ -56,7 +56,7 @@
     "react-native-qrcode-scanner": "https://github.com/moaazsidat/react-native-qrcode-scanner",
     "react-native-qrcode-svg": "^6.0.6",
     "react-native-randombytes": "^3.0.0",
-    "react-native-reanimated": "^1.13.2",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.1.9",
     "react-native-screens": "^2.15.0",
     "react-native-secure-key-store": "^2.0.9",
