@@ -22,7 +22,7 @@
     "@tradle/react-native-http": "^2.0.0",
     "@types/react-redux": "^7.1.11",
     "assert": "^1.1.1",
-    "axios": "^0.21.0",
+    "axios": "^1.6.0",
     "bignumber.js": "^9.0.1",
     "bip21": "^2.0.3",
     "bip32": "^2.0.6",
